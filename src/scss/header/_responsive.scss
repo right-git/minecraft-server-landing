@@ -1,0 +1,23 @@
+@media (max-width: 768px) {
+    .header {
+        position: fixed;
+        left: 0;
+        top: 0;
+        z-index: 9999;
+        background-color: $background;
+        padding-bottom: 20px;
+    }
+    .nav {
+        justify-content: space-between !important;
+        padding: 0 20px;
+        &-links {
+            display: none !important;
+        }
+        .burger-menu {
+            display: flex !important;
+            .line {
+                display: block !important;
+            }
+        }
+    }
+}
