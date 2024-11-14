@@ -2,6 +2,9 @@
     .main {
         margin-top: 90px;
         position: relative;
+        &-title {
+            font-size: 26px;
+        }
         &-container {
             height: fit-content;
 
