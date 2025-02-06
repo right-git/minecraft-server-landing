@@ -72,4 +72,4 @@ This repository contains the code for the landing page of our Minecraft server's
     └──── 🛠 tasks/ - directory for Gulp function modules
 
 ## Preview
-[Link to preview page](https://iismoilov7.github.io/minecraft-server-landing/build/)
+[Link to preview page](https://right-git.github.io/minecraft-server-landing/build/)
